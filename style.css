@@ -1,0 +1,21 @@
+#light{
+    height: 100vh;
+    background-color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#light button{
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 10px;
+}
+#light .on{
+    background-color: navy;
+    color: #ffff;
+}
+#light .off{
+    background-color: olive;
+    color: #ffff;
+}
